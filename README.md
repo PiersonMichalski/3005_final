@@ -1,1 +1,7 @@
-# 3005_final
+-first run "pip install psycopg2" 
+-create new DB in pgadmin called final 
+-open query tool 
+-open and run "DDL.sql" 
+-open and run "DML.sql" 
+-open a console and navigate to 3005_final folder 
+-run main.py
